@@ -17,9 +17,9 @@ BigWigs timers, on paper. **Parchment Bars** adds an **Old Parchment** style to 
 **Needs:** Required for anything to show: [BigWigs](https://www.curseforge.com/wow/addons/big-wigs).
 
 ## Download
-- **Wago Addons:** coming at launch (Nov 4). The link goes here when the project is live.
-- **CurseForge:** maybe later.
-- **GitHub:** [Releases](https://github.com/masterred92/ParchmentBars/releases) (from the first tagged release) · [Issues](https://github.com/masterred92/ParchmentBars/issues)
+- **CurseForge:** link coming as soon as the project is live. Author: [MasterRed92](https://www.curseforge.com/members/masterred92/projects).
+- **Wago Addons:** link coming as soon as the project is live.
+- **GitHub:** [Releases](https://github.com/masterred92/ParchmentBars/releases) · [Issues](https://github.com/masterred92/ParchmentBars/issues)
 - **More by Kenny:** [BRBoss](https://github.com/masterred92/BRBoss) · [GruntCount](https://github.com/masterred92/GruntCount) · [all WoW: Forever addons](https://github.com/masterred92/wow-forever-addons)
 
 ## Commands
